@@ -1,0 +1,138 @@
+CREDIT AGREEMENT
+
+Dated as of March 15, 2024
+
+Among
+
+NEXGEN TECHNOLOGIES INC., as Borrower
+
+THE SUBSIDIARIES OF THE BORROWER FROM TIME TO TIME PARTY HERETO, as Guarantors
+
+GOLDMAN SACHS BANK USA, as Administrative Agent and Collateral Agent
+
+and
+
+THE LENDERS PARTY HERETO
+
+$750,000,000 Senior Secured Term Loan B Facility
+$150,000,000 Senior Secured Revolving Credit Facility
+
+================================================================
+
+ARTICLE VI — NEGATIVE COVENANTS
+
+Section 6.01. Incurrence of Indebtedness and Issuance of Preferred Stock.
+
+The Borrower shall not, and shall not permit any of its Restricted Subsidiaries to, directly or indirectly, create, incur, issue, assume, guarantee or otherwise become directly or indirectly liable, contingently or otherwise, with respect to any Indebtedness; provided, however, that the Borrower and its Restricted Subsidiaries may incur Indebtedness (including Acquired Debt) if:
+
+(a) after giving pro forma effect to such incurrence and the application of the proceeds therefrom, the Total Net Leverage Ratio would be no greater than 5.50 to 1.00; or
+
+(b) such Indebtedness is incurred pursuant to any of the following baskets:
+
+  (i) a general debt basket in an aggregate principal amount not to exceed the greater of $200,000,000 and 30% of Consolidated EBITDA, calculated on a pro forma basis (the "General Debt Basket");
+
+  (ii) purchase money Indebtedness and Capital Lease Obligations not to exceed the greater of $75,000,000 and 10% of Consolidated EBITDA at any time outstanding;
+
+  (iii) Indebtedness under any Permitted Receivables Financing in an aggregate amount not exceeding $100,000,000.
+
+For purposes of determining compliance with this Section 6.01, Consolidated EBITDA shall be calculated to give effect to (A) projected cost savings, operating expense reductions, restructuring charges and expenses, and synergies related to any acquisition, merger or disposition that are reasonably identifiable and factually supportable, whether or not realized, for the 24-month period following such transaction, and (B) "run-rate" adjustments as agreed between the Borrower and the Administrative Agent (collectively, the "EBITDA Addbacks").
+
+================================================================
+
+Section 6.04. Restricted Payments.
+
+The Borrower shall not, and shall not permit any Restricted Subsidiary to, directly or indirectly, declare or pay any dividend, make any payment or distribution on account of the Borrower's or any Restricted Subsidiary's Equity Interests, purchase, redeem or otherwise acquire or retire for value any Equity Interests of the Borrower, or make any Restricted Investment (any such action being a "Restricted Payment") unless at the time of and after giving effect to such Restricted Payment:
+
+(a) no Default or Event of Default shall have occurred and be continuing;
+
+(b) the Total Net Leverage Ratio on a pro forma basis shall be no greater than 4.00 to 1.00; and
+
+(c) the aggregate amount of all Restricted Payments made pursuant to this clause shall not exceed the sum of:
+
+  (i) $100,000,000 (the "RP Fixed Basket");
+
+  (ii) the Available Amount (defined as 50% of cumulative Consolidated Net Income since the Closing Date, provided no Default exists);
+
+  (iii) the Available Equity Amount (proceeds from equity issuances since the Closing Date not otherwise applied).
+
+Notwithstanding the foregoing, the Borrower may pay dividends to its direct parent for general corporate and overhead expenses in an amount not to exceed $25,000,000 per fiscal year, without regard to the ratio test set forth in clause (b) above, provided no Event of Default has occurred and is continuing.
+
+================================================================
+
+Section 6.05. Asset Sales.
+
+The Borrower shall not, and shall not permit any of its Restricted Subsidiaries to, consummate an Asset Sale unless:
+
+(a) the Borrower or such Restricted Subsidiary receives consideration at the time of such Asset Sale at least equal to the Fair Market Value of the assets or Equity Interests issued or sold or otherwise disposed of;
+
+(b) at least 75% of the consideration received in respect of such Asset Sale shall be in the form of cash or Cash Equivalents; and
+
+(c) the Net Proceeds of such Asset Sale shall be applied within 365 days of receipt:
+
+  (i) first, to prepay outstanding Term Loans on a pro rata basis;
+  (ii) second, to reinvest in assets used or useful in the business (subject to a 12-month reinvestment period);
+  (iii) third, to make Restricted Payments permitted hereunder.
+
+Notwithstanding the foregoing, the following Asset Sales shall be permitted without restriction:
+
+  (A) dispositions of obsolete, surplus or worn out property or assets;
+  (B) sales of inventory, goods or services in the ordinary course of business;
+  (C) any single transaction involving assets with Fair Market Value not exceeding $50,000,000;
+  (D) any Asset Sale where the Total Net Leverage Ratio, after giving pro forma effect thereto, would not exceed 5.00 to 1.00;
+  (E) dispositions of Equity Interests in joint ventures to the extent required by the joint venture agreement;
+  (F) sale-leaseback transactions involving assets acquired after the Closing Date with aggregate proceeds not exceeding $75,000,000.
+
+================================================================
+
+Section 6.09. Collateral and Guarantees.
+
+(a) The Borrower shall, and shall cause each Material Domestic Subsidiary to, grant to the Collateral Agent for the benefit of the Secured Parties a first priority perfected Lien on substantially all of their respective assets (subject to Permitted Liens), including:
+
+  (i) all accounts receivable, inventory, equipment, fixtures, and general intangibles;
+  (ii) all owned real property with a Fair Market Value in excess of $10,000,000;
+  (iii) all Intellectual Property registered in the United States;
+  (iv) all Equity Interests in direct subsidiaries (limited to 65% of voting Equity Interests in CFCs).
+
+(b) Collateral Coverage Ratio. The Borrower shall maintain a Collateral Coverage Ratio (defined as the ratio of (x) the aggregate appraised value of all Collateral to (y) the aggregate outstanding principal amount of all Secured Obligations) of not less than 1.50 to 1.00, tested as of the last day of each fiscal quarter.
+
+(c) Guarantors. Each Material Domestic Subsidiary shall become a Guarantor and shall execute and deliver a Guarantee within 45 days of becoming a Material Domestic Subsidiary. No Guarantor shall be released from its obligations under the Guarantee Agreement without the prior written consent of Required Lenders, except upon a sale of such Guarantor permitted under Section 6.05.
+
+(d) After-Acquired Property. The Borrower shall, and shall cause each Guarantor to, promptly (and in any event within 45 days) grant to the Collateral Agent a first priority perfected Lien on any property acquired after the Closing Date with a value exceeding $5,000,000.
+
+================================================================
+
+Section 9.02. Amendments, Waivers and Consents.
+
+(a) Required Lender Consent. Except as provided in Section 9.02(b), no amendment, modification, supplement, restatement, or waiver of any provision of this Agreement shall be effective unless approved in writing by the Required Lenders (meaning Lenders holding more than 50% of the aggregate outstanding principal amount of the Loans and unused Commitments).
+
+(b) All Lender Consent. The following amendments shall require the consent of each Lender directly and adversely affected thereby:
+
+  (i) any reduction in the principal amount of any Loan or any extension of the scheduled maturity or final maturity date thereof;
+  (ii) any reduction of the stated rate of interest on any Loan (other than a waiver of default interest);
+  (iii) any increase in the Commitment of such Lender;
+  (iv) any release of all or substantially all of the Collateral or all or substantially all of the Guarantors.
+
+(c) Snooze/Extend. Notwithstanding clause (b)(i), any Lender may, at its option, agree to extend the maturity of its Loans (an "Extending Lender") without the consent of any other Lender, pursuant to a written agreement between the Borrower and such Extending Lender (the "Extension Amendment"), provided that the terms applicable to the extended Loans are no more favorable to the Extending Lenders than those applicable to the non-extending Lenders, taken as a whole.
+
+(d) Voting. Each Lender shall have the right to assign its voting rights hereunder to any Affiliated Fund or Approved Fund without restriction and without the consent of the Administrative Agent or any other Lender.
+
+(e) Cashless Rollover. Lenders may participate in any amendment, refinancing or repricing transaction on a cashless settlement basis without regard to minimum assignment thresholds.
+
+================================================================
+
+ARTICLE VII — FINANCIAL COVENANTS
+
+Section 7.01. Total Net Leverage Ratio.
+
+The Borrower shall not permit the Total Net Leverage Ratio as of the last day of any fiscal quarter (commencing with the fiscal quarter ending June 30, 2024) to exceed the ratio set forth below:
+
+  Fiscal Quarters Ending              Maximum Ratio
+  June 30, 2024 — March 31, 2025     6.00 to 1.00
+  June 30, 2025 — March 31, 2026     5.50 to 1.00
+  June 30, 2026 and thereafter        5.00 to 1.00
+
+Equity Cure: If the Borrower fails to comply with Section 7.01, the Borrower may cure such failure by receiving a cash equity contribution (the "Cure Amount") within 10 Business Days after the delivery of financial statements for such fiscal quarter. The Cure Amount shall be added to Consolidated EBITDA for such quarter. The Equity Cure right may not be exercised more than 2 times in any 4 consecutive fiscal quarter period, and no more than 5 times in total during the term of this Agreement.
+
+================================================================
+
+[SIGNATURE PAGES FOLLOW]
