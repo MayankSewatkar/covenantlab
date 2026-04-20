@@ -5,20 +5,19 @@ from typing import List, Dict
 
 SECTION_PATTERNS = {
     "debt_incurrence": [
-        r"(?i)(section\s+[\d\.]+\s*)?(incurrence of (indebtedness|debt)|debt incurrence)",
-        r"(?i)additional (indebtedness|debt)",
+        r"(?i)^section\s+[\d\.]+[^\n]*?(incurrence of (indebtedness|debt)|debt incurrence)",
     ],
     "restricted_payments": [
-        r"(?i)(restricted payments|dividends and distributions)",
+        r"(?i)^section\s+[\d\.]+[^\n]*?restricted payments",
     ],
     "asset_sales": [
-        r"(?i)(asset sales?|disposition of (assets|property)|sale of assets)",
+        r"(?i)^section\s+[\d\.]+[^\n]*?asset sales?",
     ],
     "collateral_guarantees": [
-        r"(?i)(collateral|guarantees?|security interest|pledge)",
+        r"(?i)^section\s+[\d\.]+[^\n]*?(collateral and guarantees?|collateral[^,\n]*guarantee)",
     ],
     "amendment_voting": [
-        r"(?i)(amendments?|modifications?|waivers?|voting rights|consent requirements?)",
+        r"(?i)^section\s+[\d\.]+[^\n]*?(amendments?.*waivers?|waivers?.*amendments?)",
     ],
 }
 

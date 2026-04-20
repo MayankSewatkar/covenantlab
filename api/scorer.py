@@ -17,11 +17,11 @@ def score_clause(clause: Dict) -> float:
     threshold = clause.get("threshold") or {}
     unit = threshold.get("unit", "")
     val = threshold.get("value")
-    if unit == "x_EBITDA" and val is not None:
+    if unit in ("x_EBITDA", "ratio") and val is not None:
         if val > 6.0:   score -= 30
         elif val > 5.0: score -= 20
         elif val > 4.0: score -= 10
-    if not val and ctype != "amendment_voting":
+    if not val and ctype not in ("amendment_voting", "collateral_guarantees"):
         score -= 15
 
     basket = clause.get("basket_size") or {}
@@ -43,9 +43,11 @@ def score_clause(clause: Dict) -> float:
     elif len(exceptions) > 5:
         score -= 10
 
-    for flag in clause.get("risk_flags") or []:
-        severity = flag.get("severity", "low")
-        score -= RISK_FLAG_PENALTIES.get(severity, 0)
+    flag_penalty = sum(
+        RISK_FLAG_PENALTIES.get(f.get("severity", "low"), 0)
+        for f in (clause.get("risk_flags") or [])
+    )
+    score -= min(flag_penalty, 50)
 
     confidence = clause.get("confidence") or 1.0
     if confidence < 0.5:

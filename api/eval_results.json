@@ -1,0 +1,81 @@
+[
+  {
+    "id": "debt_strong",
+    "clause_type": "debt_incurrence",
+    "score": 63.0,
+    "confidence": 0.93,
+    "n_flags": 2,
+    "passes": [
+      "threshold_unit == ratio",
+      "threshold_value 3.0 in [2.5, 3.5]",
+      "has_grower == False",
+      "risk_flag count 2 >= 0",
+      "score 63.0 in [60, 100]",
+      "correctly absent: 'EBITDA add-back'"
+    ],
+    "failures": [
+      "false positive: 'grower basket' flagged but should not be"
+    ],
+    "passed": false
+  },
+  {
+    "id": "debt_weak",
+    "clause_type": "debt_incurrence",
+    "score": 0.0,
+    "confidence": 0.93,
+    "n_flags": 5,
+    "passes": [
+      "threshold_unit == ratio",
+      "threshold_value 6.5 in [6.0, 7.0]",
+      "has_grower == True",
+      "risk_flag count 5 >= 2",
+      "score 0.0 in [0, 40]",
+      "high flags 3 >= 2"
+    ],
+    "failures": [],
+    "passed": true
+  },
+  {
+    "id": "restricted_payments_moderate",
+    "clause_type": "restricted_payments",
+    "score": 63.0,
+    "confidence": 0.91,
+    "n_flags": 2,
+    "passes": [
+      "threshold_value 4.0 in [3.5, 4.5]",
+      "risk_flag count 2 >= 1",
+      "score 63.0 in [30, 70]"
+    ],
+    "failures": [],
+    "passed": true
+  },
+  {
+    "id": "amendment_weak",
+    "clause_type": "amendment_voting",
+    "score": 50.0,
+    "confidence": 0.93,
+    "n_flags": 3,
+    "passes": [
+      "risk_flag count 3 >= 2",
+      "score 50.0 in [0, 55]",
+      "keyword 'snooze' found in flags",
+      "keyword '50%' found in flags",
+      "keyword 'transfer' found in flags"
+    ],
+    "failures": [],
+    "passed": true
+  },
+  {
+    "id": "collateral_strong",
+    "clause_type": "collateral_guarantees",
+    "score": 78.0,
+    "confidence": 0.82,
+    "n_flags": 3,
+    "passes": [
+      "risk_flag count 3 >= 0",
+      "score 78.0 in [65, 100]"
+    ],
+    "failures": [],
+    "passed": true
+  }
+]

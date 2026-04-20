@@ -23,7 +23,7 @@ with tab1:
                     resp = requests.post(
                         f"{API_URL}/analyze",
                         files={"file": (uploaded.name, uploaded.getvalue())},
-                        timeout=120
+                        timeout=300
                     )
                     resp.raise_for_status()
                     data = resp.json()

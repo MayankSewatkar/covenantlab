@@ -1,7 +1,11 @@
 import json
 import os
+import re
 import anthropic
 from typing import Dict, List
+from dotenv import load_dotenv
+
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
 
 client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
@@ -17,9 +21,11 @@ CLAUSE_PROMPT = """Analyze this {clause_type} covenant clause from a credit agre
 4. restrictions: list of specific prohibited or limited actions (strings)
 5. exceptions: list of carve-outs or permitted exceptions (strings)
 6. risk_flags: list of {{flag, severity (low/medium/high), rationale}}
-   Flag HIGH for: unlimited baskets, cov-lite features, EBITDA add-backs beyond 12 months,
-   portability provisions, snooze/extend, missing maintenance tests.
-   Flag MEDIUM for: large fixed baskets >$200M, grower baskets, simple majority amendments.
+   ONLY flag things EXPLICITLY STATED in the text. Do not flag absent protections.
+   Flag HIGH for: EBITDA add-backs beyond 12 months (only if stated), snooze/extend provisions,
+   portability clauses, unlimited or uncapped baskets, cov-lite (only if text confirms incurrence-only).
+   Flag MEDIUM for: fixed baskets >$200M, grower baskets, simple majority (50%) amendment threshold.
+   Flag LOW for: broad exceptions lists, reinvestment rights, equity cure rights.
 7. confidence: float 0.0-1.0
 
 Clause text:
@@ -43,11 +49,13 @@ def extract_clause(clause: Dict) -> Dict:
     )
     response = client.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=1500,
+        max_tokens=4096,
         system=EXTRACTION_SYSTEM,
         messages=[{"role": "user", "content": prompt}]
     )
     raw_json = response.content[0].text.strip()
+    raw_json = re.sub(r'^```(?:json)?\s*', '', raw_json, flags=re.MULTILINE)
+    raw_json = re.sub(r'\s*```\s*$', '', raw_json, flags=re.MULTILINE).strip()
     try:
         extracted = json.loads(raw_json)
     except json.JSONDecodeError:
@@ -58,4 +66,6 @@ def extract_clause(clause: Dict) -> Dict:
     return {**clause, **extracted}
 
 def extract_all_clauses(clauses: List[Dict]) -> List[Dict]:
-    return [extract_clause(c) for c in clauses]
+    from concurrent.futures import ThreadPoolExecutor
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        return list(executor.map(extract_clause, clauses))
