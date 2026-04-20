@@ -272,8 +272,17 @@ with tab1:
                         files={"file": (uploaded.name, uploaded.getvalue())},
                         timeout=300,
                     )
-                    resp.raise_for_status()
+                    if not resp.ok:
+                        try:
+                            detail = resp.json().get("detail", resp.text)
+                        except Exception:
+                            detail = resp.text
+                        st.error(f"API error {resp.status_code}: {detail}")
+                        st.stop()
                     data = resp.json()
+                except requests.exceptions.ConnectionError:
+                    st.error("Cannot reach the API server at http://localhost:8000. Make sure it is running.")
+                    st.stop()
                 except Exception as e:
                     st.error(f"API error: {e}")
                     st.stop()
