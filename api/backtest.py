@@ -61,7 +61,7 @@ def run_backtest(dataset_path: str) -> Dict:
         "ols_intercept": round(intercept, 4),
         "r_squared": round(r**2, 4),
         "n": len(clean),
-        "significant": p_val < 0.05,
+        "significant": bool(p_val < 0.05),
     }
 
     return {

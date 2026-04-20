@@ -97,6 +97,7 @@ with tab2:
         with st.spinner("Running backtest..."):
             try:
                 resp = requests.get(f"{API_URL}/backtest", timeout=30)
+                resp.raise_for_status()
                 bt = resp.json()
             except Exception as e:
                 st.error(f"API error: {e}")
