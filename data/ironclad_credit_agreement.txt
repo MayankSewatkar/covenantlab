@@ -1,0 +1,371 @@
+CREDIT AGREEMENT
+
+Dated as of January 14, 2025
+
+Among
+
+RIDGELINE INDUSTRIALS CORP., as Borrower
+
+THE SUBSIDIARY GUARANTORS FROM TIME TO TIME PARTY HERETO
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent, Collateral Agent, and Swingline Lender
+
+BANK OF AMERICA, N.A. and WELLS FARGO BANK, NATIONAL ASSOCIATION, as Co-Syndication Agents
+
+and
+
+THE LENDERS PARTY HERETO
+
+$500,000,000 Senior Secured Term Loan A Facility
+$200,000,000 Senior Secured Revolving Credit Facility
+
+================================================================
+
+ARTICLE VI — NEGATIVE COVENANTS
+
+Section 6.01. Incurrence of Indebtedness and Issuance of Preferred Stock.
+
+The Borrower shall not, and shall not permit any of its Restricted Subsidiaries to, directly or
+indirectly, create, incur, issue, assume, guarantee or otherwise become directly or indirectly
+liable, contingently or otherwise (collectively, "incur"), with respect to any Indebtedness
+(including Acquired Indebtedness); provided, however, that the Borrower and the Restricted
+Subsidiaries may incur Indebtedness if, and only if, after giving pro forma effect to such
+incurrence and the application of the net proceeds therefrom as if such incurrence had occurred
+on the first day of the most recently ended four fiscal quarter period:
+
+(a) the Total Net Leverage Ratio would be no greater than 3.50 to 1.00 (the "Leverage
+Incurrence Test"); and
+
+(b) the Interest Coverage Ratio would be no less than 3.00 to 1.00 (the "Coverage
+Incurrence Test").
+
+Both tests in clauses (a) and (b) must be satisfied concurrently. Satisfaction of one test alone
+shall not permit incurrence.
+
+Permitted Debt Baskets. Notwithstanding the foregoing, the following categories of Indebtedness
+shall be permitted without satisfaction of the tests in clauses (a) and (b):
+
+  (i)    Indebtedness under this Agreement and the other Loan Documents;
+
+  (ii)   purchase money Indebtedness and Capital Lease Obligations incurred in the ordinary
+         course of business, not to exceed $40,000,000 in aggregate outstanding principal
+         amount at any time;
+
+  (iii)  ordinary course trade payables and accrued liabilities arising in the normal course
+         of business;
+
+  (iv)   Indebtedness in respect of performance bonds, surety bonds, and letters of credit
+         issued in the ordinary course of business, not to exceed $25,000,000 in aggregate
+         face amount at any time outstanding;
+
+  (v)    intercompany Indebtedness between the Borrower and any Wholly Owned Restricted
+         Subsidiary or between Wholly Owned Restricted Subsidiaries, in each case subject
+         to subordination provisions satisfactory to the Administrative Agent; and
+
+  (vi)   a general basket not to exceed $50,000,000 in aggregate principal amount at any
+         time outstanding (the "General Debt Basket"), which basket may not be used to
+         incur Indebtedness that is secured by any Lien on Collateral.
+
+For the avoidance of doubt, no grower component, builder basket, or ratio-based
+expansion shall apply to the General Debt Basket in clause (vi) above. The baskets in
+clauses (ii) through (vi) are not cumulative with one another to the extent they would
+otherwise overlap.
+
+EBITDA Calculations. For purposes of calculating Consolidated EBITDA under this Section 6.01,
+no add-backs, adjustments, or pro forma effect shall be given to projected cost savings,
+synergies, or restructuring charges unless such items (A) have been realized or are
+contractually committed to be realized within six months following the relevant transaction,
+(B) are reasonably identifiable and factually supportable based on third-party evidence,
+and (C) in aggregate do not exceed 10% of Consolidated EBITDA calculated without any
+add-backs for the same period. No run-rate adjustments or "agreed EBITDA" provisions shall
+apply to this Agreement.
+
+================================================================
+
+Section 6.04. Restricted Payments.
+
+The Borrower shall not, and shall not permit any Restricted Subsidiary to, directly or
+indirectly, declare, order, pay, make, or set apart any sum for any Restricted Payment, unless,
+at the time of and after giving pro forma effect to such Restricted Payment:
+
+(a) no Default or Event of Default shall have occurred and be continuing or would result
+    therefrom;
+
+(b) the Total Net Leverage Ratio on a pro forma basis shall be no greater than 3.00 to 1.00
+    (the "RP Leverage Test"); and
+
+(c) the aggregate amount of all Restricted Payments made in any fiscal year pursuant to
+    this clause shall not exceed $35,000,000 (the "Annual RP Cap").
+
+The Annual RP Cap is an absolute fixed ceiling and does not contain any grower component,
+basket builder, or Available Amount mechanic. Unused Annual RP Cap amounts from any
+prior fiscal year may not be carried forward to a subsequent fiscal year.
+
+Permitted Restricted Payments. Notwithstanding the foregoing, the following Restricted
+Payments shall be permitted without regard to clause (b) or (c) above, provided that no
+Event of Default has occurred and is continuing:
+
+  (i)    dividends or distributions by any Restricted Subsidiary to the Borrower or to
+         any other Wholly Owned Restricted Subsidiary;
+
+  (ii)   repurchases of Equity Interests of the Borrower from employees, officers, or
+         directors upon termination of employment or service, not to exceed $10,000,000
+         in aggregate per fiscal year;
+
+  (iii)  payments to satisfy tax withholding obligations in connection with the settlement
+         of equity awards, not to exceed $5,000,000 per fiscal year.
+
+For the further avoidance of doubt, no Restricted Payment may be made by virtue of any
+portability provision, ratio carve-out, or deemed compliance mechanism. Each Restricted
+Payment must independently satisfy the conditions in clauses (a) through (c) above at the
+time of payment.
+
+================================================================
+
+Section 6.05. Asset Sales.
+
+The Borrower shall not, and shall not permit any Restricted Subsidiary to, make any Asset
+Sale unless each of the following conditions is satisfied:
+
+(a) the Borrower or the applicable Restricted Subsidiary receives consideration at the
+    time of such Asset Sale at least equal to the Fair Market Value (as determined in good
+    faith by the board of directors of the Borrower and certified to the Administrative
+    Agent) of the assets or Equity Interests sold or otherwise disposed of;
+
+(b) not less than 85% of the total consideration received in respect of such Asset Sale
+    shall consist of cash or Cash Equivalents, received at closing; and
+
+(c) the Net Proceeds from such Asset Sale shall, within 180 days of receipt:
+
+    (i)   first, be applied to prepay outstanding Term Loans on a mandatory basis at par,
+          without premium or penalty, on a pro rata basis across all tranches; or
+
+    (ii)  second, to the extent the Borrower elects in writing delivered to the
+          Administrative Agent within 30 days of receipt, be reinvested in assets used
+          or useful in the Borrower's then-existing lines of business; provided that
+          such reinvestment shall be completed within 180 days of the date of receipt
+          of Net Proceeds (with no extension permitted); and
+
+    (iii) any Net Proceeds not applied pursuant to clauses (i) or (ii) above within 180
+          days shall be applied immediately as a mandatory prepayment of Term Loans.
+
+Permitted Asset Sales. The following dispositions shall be permitted without restriction:
+
+  (A) dispositions of obsolete, worn out, or surplus equipment or inventory in the
+      ordinary course of business;
+
+  (B) sales of goods and services in the ordinary course of business consistent with
+      past practice;
+
+  (C) any single transaction or series of related transactions with aggregate Fair
+      Market Value not exceeding $15,000,000 per transaction and $30,000,000 in
+      aggregate across all such transactions in any fiscal year; and
+
+  (D) any involuntary disposition resulting from a casualty event or condemnation,
+      subject to the reinvestment and prepayment mechanics in clause (c) above.
+
+For the avoidance of doubt, no permitted Asset Sale basket shall apply to the sale or
+other disposition of any Collateral that constitutes real property, registered Intellectual
+Property, or Equity Interests in any Material Subsidiary, regardless of the value thereof,
+without the prior written consent of Required Lenders. Sale-leaseback transactions,
+synthetic lease arrangements, and receivables securitizations are not permitted under
+this Section 6.05 or otherwise under this Agreement.
+
+================================================================
+
+Section 6.09. Collateral and Guarantees.
+
+(a) Grant of Security Interest. The Borrower shall, and shall cause each Material Domestic
+    Subsidiary and each Restricted Subsidiary that guarantees any other material
+    Indebtedness of the Borrower to, grant to the Collateral Agent for the benefit of
+    the Secured Parties a first priority, perfected Lien (subject only to Permitted Liens)
+    on all of the following assets, whether now owned or hereafter acquired:
+
+    (i)    all accounts receivable, contract rights, and payment intangibles;
+    (ii)   all inventory (including raw materials, work in process, and finished goods);
+    (iii)  all equipment, machinery, and fixtures;
+    (iv)   all owned and leasehold real property (regardless of value);
+    (v)    all Intellectual Property registered or applied for in the United States, the
+           European Union, or any jurisdiction representing more than 5% of consolidated
+           revenues;
+    (vi)   all Equity Interests in each direct and indirect Restricted Subsidiary
+           (limited to 65% of voting Equity Interests in any first-tier CFC);
+    (vii)  all cash, deposit accounts, securities accounts, and investment property; and
+    (viii) all proceeds and products of the foregoing.
+
+(b) Collateral Coverage Ratio. The Borrower shall maintain, as of the last day of each
+    fiscal quarter, a Collateral Coverage Ratio (defined as the ratio of (x) the
+    aggregate appraised Fair Market Value of all Collateral as most recently determined
+    by an independent third-party appraisal conducted within the preceding 12 months,
+    to (y) the aggregate outstanding principal amount of all Secured Obligations) of
+    not less than 2.00 to 1.00. If the Collateral Coverage Ratio falls below 2.00 to 1.00
+    at any measurement date, the Borrower shall, within 30 days, either (A) prepay
+    Secured Obligations in an amount sufficient to restore compliance or (B) grant
+    additional Collateral satisfactory to the Collateral Agent in its reasonable
+    discretion.
+
+(c) Guarantors. Each Material Domestic Subsidiary (defined as any Restricted Subsidiary
+    with total assets or total revenues exceeding $10,000,000) shall become a Guarantor
+    and shall execute and deliver to the Collateral Agent a Guarantee Agreement, Security
+    Agreement, and all related perfection documents within 30 days of becoming a Material
+    Domestic Subsidiary. The Guarantee shall be unconditional, irrevocable, and shall cover
+    all Secured Obligations on a joint and several basis. No Guarantor may be released from
+    its Guarantee except upon (i) a bona fide arm's-length sale of such Guarantor to an
+    unaffiliated third party that is permitted under Section 6.05, with 100% of Net Proceeds
+    applied to mandatory prepayment of Term Loans, or (ii) the prior written consent of
+    Required Lenders obtained pursuant to Section 9.02(b).
+
+(d) After-Acquired Property. The Borrower shall, and shall cause each Guarantor to,
+    promptly (and in any event within 15 Business Days) after the acquisition of any
+    property or asset with a Fair Market Value in excess of $1,000,000, grant to the
+    Collateral Agent a first priority perfected Lien on such property or asset, and deliver
+    to the Administrative Agent all related certificates, instruments, and filings necessary
+    to perfect such Lien.
+
+(e) Appraisals. The Collateral Agent shall have the right to require, at the Borrower's
+    expense, an independent third-party appraisal of all or any portion of the Collateral
+    at any time during the continuance of a Default or Event of Default, and no more than
+    once per fiscal year during all other periods.
+
+(f) No Negative Pledge Carve-Out. No asset of the Borrower or any Restricted Subsidiary
+    that constitutes Collateral shall be subject to any Lien other than Permitted Liens,
+    regardless of whether such Lien would otherwise constitute a Permitted Lien under a
+    different provision of this Agreement.
+
+================================================================
+
+Section 9.02. Amendments, Waivers, and Consents.
+
+(a) Supermajority Lender Consent. No amendment, modification, supplement, restatement,
+    or waiver of any provision of this Agreement or any other Loan Document shall be
+    effective unless approved in writing by Supermajority Lenders (meaning Lenders holding
+    more than 66⅔% of the aggregate outstanding principal amount of all Loans and unused
+    Revolving Commitments at the time of such vote) (the "Supermajority Lender Consent").
+
+(b) Unanimous Lender Consent. Notwithstanding clause (a), the following amendments shall
+    require the written consent of each Lender directly or indirectly affected thereby,
+    and no such amendment shall be effective without such unanimous consent:
+
+    (i)    any reduction in the principal amount, or forgiveness of any portion, of any
+           Loan or Reimbursement Obligation;
+    (ii)   any reduction in the rate of interest payable on any Loan (other than a waiver
+           of default interest applicable uniformly to all Lenders);
+    (iii)  any extension of the scheduled maturity or final maturity date of any Loan,
+           or any extension of any scheduled amortization payment;
+    (iv)   any increase in the Revolving Commitment of any Lender;
+    (v)    any release of all or substantially all of the Collateral (with "substantially
+           all" defined as Collateral with an aggregate Fair Market Value exceeding 10%
+           of total Collateral value);
+    (vi)   any release of any Guarantor that is a Material Domestic Subsidiary, except
+           as expressly permitted by Section 6.09(c);
+    (vii)  any amendment or waiver of this Section 9.02 or the definition of "Required
+           Lenders," "Supermajority Lenders," or "Event of Default"; and
+    (viii) any subordination of the Liens of the Collateral Agent on all or any material
+           portion of the Collateral to the Liens of any other Person.
+
+(c) No Snooze/Extend. This Agreement does not contain any provision permitting the
+    Borrower to extend the maturity of any Loan held by a consenting Lender without
+    the consent of all affected Lenders as required by clause (b)(iii) above. Any
+    purported extension of maturity of any Loan without such consent shall be null and
+    void and of no legal force or effect.
+
+(d) No Portability. No change of control, merger, consolidation, or sale of all or
+    substantially all assets of the Borrower shall be deemed to constitute compliance
+    with any covenant or condition of this Agreement by any successor entity. Any
+    successor or surviving entity shall independently satisfy all conditions and
+    covenants in this Agreement at the time of such transaction.
+
+(e) Non-Consenting Lender Replacement. If any Lender does not consent to an amendment
+    requiring only Supermajority Lender Consent under clause (a), the Borrower may
+    replace such non-consenting Lender with an Eligible Assignee, provided that (i)
+    the replacement Lender assumes all obligations of the replaced Lender at par plus
+    accrued interest, (ii) no Default or Event of Default has occurred and is continuing,
+    and (iii) the Borrower has obtained the prior written consent of the Administrative
+    Agent (not to be unreasonably withheld).
+
+(f) Anti-Yank-the-Bank Restriction. No amendment may disproportionately reduce the
+    economic rights or voting rights of any individual Lender relative to the other
+    Lenders without the prior written consent of such affected Lender.
+
+================================================================
+
+ARTICLE VII — FINANCIAL MAINTENANCE COVENANTS
+
+Section 7.01. Total Net Leverage Ratio.
+
+The Borrower shall not permit the Total Net Leverage Ratio as of the last day of any
+fiscal quarter (commencing with the fiscal quarter ending March 31, 2025) to exceed:
+
+  Fiscal Quarters Ending                   Maximum Ratio
+  March 31, 2025 — December 31, 2025      3.50 to 1.00
+  March 31, 2026 — December 31, 2026      3.25 to 1.00
+  March 31, 2027 and thereafter            3.00 to 1.00
+
+Section 7.02. Interest Coverage Ratio.
+
+The Borrower shall not permit the Interest Coverage Ratio as of the last day of any
+fiscal quarter to be less than:
+
+  Fiscal Quarters Ending                   Minimum Ratio
+  March 31, 2025 — December 31, 2025      3.00 to 1.00
+  March 31, 2026 and thereafter            3.50 to 1.00
+
+Section 7.03. Minimum Liquidity.
+
+The Borrower shall maintain, at all times, unrestricted cash and Cash Equivalents plus
+undrawn availability under the Revolving Credit Facility of not less than $50,000,000.
+
+Section 7.04. No Equity Cure.
+
+This Agreement does not contain any equity cure right, equity cure mechanic, or any
+provision permitting the Borrower to remedy a failure to comply with Sections 7.01 or 7.02
+by making an equity contribution or otherwise injecting capital. Any failure to comply with
+Sections 7.01 or 7.02 shall constitute an immediate Event of Default under Article VIII.
+
+================================================================
+
+ARTICLE VIII — EVENTS OF DEFAULT
+
+Section 8.01. Events of Default.
+
+Each of the following shall constitute an Event of Default:
+
+(a) failure to pay any principal of any Loan when due (whether at stated maturity, upon
+    acceleration, or otherwise), and such failure is not cured within 1 Business Day;
+
+(b) failure to pay any interest on any Loan or any fee or other amount payable hereunder
+    within 5 Business Days after the due date thereof;
+
+(c) any representation or warranty made by any Loan Party in any Loan Document shall
+    have been incorrect in any material respect when made, and, if curable, not cured
+    within 20 days of notice thereof;
+
+(d) failure to comply with any covenant in Article VI or Article VII, provided that with
+    respect to Article VI (other than Sections 6.01, 6.04, and 6.05), such failure is
+    not cured within 30 days of notice; failure to comply with Sections 6.01, 6.04, 6.05,
+    or Article VII shall constitute an immediate Event of Default without any cure period;
+
+(e) a Change of Control shall occur (defined as any Person or group acquiring beneficial
+    ownership of more than 35% of the voting Equity Interests of the Borrower, or the
+    board of directors ceasing to consist of a majority of Continuing Directors);
+
+(f) any Loan Document shall cease to be in full force and effect, or any Lien granted
+    under any Security Document shall cease to be a perfected first priority Lien on any
+    material portion of the Collateral (subject to Permitted Liens), and such failure is
+    not cured within 5 Business Days.
+
+================================================================
+
+[SIGNATURE PAGES FOLLOW]
+
+RIDGELINE INDUSTRIALS CORP.
+
+By: _____________________________
+Name:
+Title:
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent
+
+By: _____________________________
+Name:
+Title:
