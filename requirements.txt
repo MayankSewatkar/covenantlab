@@ -10,3 +10,4 @@ python-multipart>=0.0.9
 requests>=2.32.0
 pydantic>=2.7.0
 python-dotenv>=1.0.0
+plotly>=5.22.0
